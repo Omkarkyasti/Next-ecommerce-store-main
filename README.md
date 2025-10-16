@@ -1,1 +1,1 @@
-# Next-ecommerce-store-main
+# Next-ecommerce-task
